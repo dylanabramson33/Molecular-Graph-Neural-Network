@@ -1,11 +1,6 @@
 absl-py==0.11.0
 alabaster==0.7.12
-anaconda-client==1.7.2
-anaconda-navigator==1.10.0
-anaconda-project==0.8.3
 applaunchservices==0.2.1
-appnope @ file:///opt/concourse/worker/volumes/live/5f13e5b3-5355-4541-5fc3-f08850c73cf9/volume/appnope_1606859448618/work
-appscript @ file:///opt/concourse/worker/volumes/live/50ca4c96-3090-40bb-6981-3a6114ed0af4/volume/appscript_1594840187551/work
 argh==0.26.2
 argon2-cffi @ file:///opt/concourse/worker/volumes/live/59af29ac-4890-416e-7ab7-794f8d6f7ecd/volume/argon2-cffi_1596828548321/work
 asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
